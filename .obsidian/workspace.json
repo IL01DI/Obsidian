@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "92cf921fba8707a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca67a6f2af7af9f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca26f0d433ea3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essentia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "essentia"
+            }
+          },
+          {
+            "id": "4638d6823b53e53a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index.md"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6412457d842af6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "95295168101546a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca5bd6470f18784a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8435c5a9ffdafc0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55ba7ba19cd6d5b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b58968d6c0961d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c5fb6415adaf810",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb157b1e8e9bf592",
+    "type": "split",
+    "children": [
+      {
+        "id": "826fcc9da91a55ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73b7361cb3ff1052",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index.md"
+            }
+          },
+          {
+            "id": "1401c75703298eeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "essentia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from essentia"
+            }
+          },
+          {
+            "id": "f87cde13d52c8ed8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dbe37efc9e333e12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "essentia.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of essentia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4638d6823b53e53a",
+  "lastOpenFiles": [
+    "essentia.md",
+    "index.md.md",
+    "totus.md",
+    "unus.md",
+    "aeternus.md"
+  ]
+}
