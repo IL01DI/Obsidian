@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essentia.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "essentia"
-            }
-          },
-          {
-            "id": "4638d6823b53e53a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index.md"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index.md"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -191,12 +177,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4638d6823b53e53a",
+  "active": "3ca26f0d433ea3c1",
   "lastOpenFiles": [
-    "essentia.md",
-    "index.md.md",
-    "totus.md",
-    "unus.md",
-    "aeternus.md"
+    "imperfectus/aeternus.md",
+    "imperfectus/amor.md",
+    "imperfectus/alius.md",
+    "imperfectus/duo.md",
+    "imperfectus/essentia.md",
+    "imperfectus/pulchrus.md",
+    "imperfectus/totus.md",
+    "imperfectus/unus.md",
+    "index.md",
+    "imperfectus",
+    "perfectus",
+    "README.md"
   ]
 }
